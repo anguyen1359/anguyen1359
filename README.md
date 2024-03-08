@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Austin Nguyen, A current Electrical Engineering Student with a concentration of Computer Engineering studying at Iowa State University!
+
+While I may be an Electrical Engineer, I have many strengths when it comes to the world of software!
+
+Some of the things that I've worked on in the past have been related to Machine and Deep Learning, Game Development, and some Web Development!
+
+Please feel free to reach out regarding any questions or potential opportunities!
 
 <!--
 **anguyen1359/anguyen1359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
